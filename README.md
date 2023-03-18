@@ -9,7 +9,7 @@ Jira Software launched in 2002 as an issue tracking and project management tool 
 •	**DevOps teams**\
 •	**Product management teams**\
 •	**Project management teams**\
-•	**Software development teams**\
+•	**Software development teams**
 
 ![Tiger](Photos/Tiger.jpg)
 
@@ -23,7 +23,7 @@ Please read the Supported platforms page for Jira applications, which lists the 
 •	**Java platforms (JDK/JRE) (server-side)**\
 •	**Operating systems (server-side)**\
 •	**Application servers (server-side)**\
-•	**Databases (server-side)**\
+•	**Databases (server-side)**
 
 # Using Jira Software
 
@@ -61,4 +61,4 @@ To Create a task,
 
 # References
 
-[Jira](https://www.atlassian.com/try/cloud/signup?bundle=jira-software-jira-service-management&edition=fr
+[Jira](https://www.atlassian.com/try/cloud/signup?bundle=jira-software-jira-service-management&edition=fr)
