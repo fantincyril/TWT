@@ -4,12 +4,12 @@ Jira is a project management tool. It is a ticketing tool used by companies to t
 Who uses Jira Software?
 Jira Software launched in 2002 as an issue tracking and project management tool for teams. Since then, 65,000+ companies globally have adopted Jira for its flexibility to support any type of project and extensibility to work with thousands of apps and integrations.
 
-•	**Agile teams**
-•	**Bug tracking teams**
-•	**DevOps teams**
-•	**Product management teams**
-•	**Project management teams**
-•	**Software development teams**
+•	**Agile teams**\
+•	**Bug tracking teams**\
+•	**DevOps teams**\
+•	**Product management teams**\
+•	**Project management teams**\
+•	**Software development teams**\
 
 ![Tiger](Photos/Tiger.jpg)
 
@@ -19,11 +19,11 @@ Jira is a 'web application', meaning it runs centrally on a server, and users in
 
 Please read the Supported platforms page for Jira applications, which lists the required server and client software supported by Jira applications for:
 
-•	**Browsers (client-side)**
-•	**Java platforms (JDK/JRE) (server-side)**
-•	**Operating systems (server-side)**
-•	**Application servers (server-side)**
-•	**Databases (server-side)**
+•	**Browsers (client-side)**\
+•	**Java platforms (JDK/JRE) (server-side)**\
+•	**Operating systems (server-side)**\
+•	**Application servers (server-side)**\
+•	**Databases (server-side)**\
 
 # Using Jira Software
 
@@ -61,4 +61,4 @@ To Create a task,
 
 # References
 
-[Jira](https://www.atlassian.com/try/cloud/signup?bundle=jira-software-jira-service-management&edition=free)
+[Jira](https://www.atlassian.com/try/cloud/signup?bundle=jira-software-jira-service-management&edition=fr
