@@ -12,7 +12,6 @@ Jira Software launched in 2002 as an issue tracking and project management tool 
 •	Software development teams
 
 ![Tiger](Photos\Tiger.jpg)
-![Tiger1](C:\GitHub Practice\TWT\Photos\Tiger.jpg)
 
 Prerequisites
 
