@@ -11,6 +11,9 @@ Jira Software launched in 2002 as an issue tracking and project management tool 
 •	Project management teams
 •	Software development teams
 
+![Tiger](Photos\Tiger.jpg)
+![Tiger1](C:\GitHub Practice\TWT\Photos\Tiger.jpg)
+
 Prerequisites
 
 Jira is a 'web application', meaning it runs centrally on a server, and users interact with it through web browsers from any computer on the same network. As such, Jira must be able to communicate and authenticate with itself. If you're upgrading to Jira 9.6 be sure to review the latest release and upgrade notes here.
