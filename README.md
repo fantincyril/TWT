@@ -11,7 +11,7 @@ Jira Software launched in 2002 as an issue tracking and project management tool 
 •	**Project management teams**\
 •	**Software development teams**
 
-![Jira Start Page](Photos/Jira.jpg)
+![Jira Start Page](.\Photos/Jira.jpg)
 
 # Prerequisites
 
@@ -25,7 +25,7 @@ Please read the Supported platforms page for Jira applications, which lists the 
 •	**Application servers (server-side)**\
 •	**Databases (server-side)**
 
-![Jira Dashboard](Photos/Jira_Dashboard.jpg)
+![Jira Dashboard](.\Photos/Jira_Dashboard.jpg)
 
 # Using Jira Software
 
