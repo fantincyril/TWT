@@ -81,3 +81,7 @@ To Create a task,
 12.	The task is created within the Project name.
 13.	Click on the created task to start working from it to show the progress.
 14.	We need to add our comments in the comments section to show the progress and change the status. 
+
+Support
+
+References
