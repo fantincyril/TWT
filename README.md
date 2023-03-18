@@ -34,7 +34,7 @@ To get started with Jira,
 On the Jira dashboard you see the ribbon along with the options.
 • Select Your work, you see the work assigned to you along with its progress.
 • Under Project section you can see all the projects created and you can even create new Projects.
-• On **Dashboard** option, you can see the dashboard that we have created.
+• On Dashboard option, you can see the dashboard that we have created.
 • On People section perform the following steps
 
 a. You select Invite people to Jira
@@ -61,6 +61,8 @@ To Create a task,
     14. We need to add our comments in the comments section to show the progress and change the status. 
 
 # Support
+
+[ContactUs](https://support.atlassian.com/contact/?postauth=true#/)
 
 # References
 
