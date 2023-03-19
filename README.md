@@ -46,19 +46,19 @@ Kindly note: You can invite up to 50 people at once to the team.
 
 **To Create a task**,
 
-    1. On the ribbon you click on Create\
-    2. Project name is visible that is created\
-    3. Select the issue type as project\
-    4. You give a brief note in Summary section\
-    5. Provide a detailed description regarding the topic under Description section\
-    6. Select a name from your list to assign the task to them\
-    7. Provide the reporter’s name to whom you report to\
-    8. Select a label from the drop down that you have created\
-    9. Assign a due date to have a deadline for the project\
-    10. You attach the attachment if you have any\
-    11. Click on the Create to start the task\
-    12. The task is created within the Project name\
-    13. Click on the created task to start working from it to show the progress\
+    1. On the ribbon you click on Create.
+    2. Project name is visible that is created.
+    3. Select the issue type as project.
+    4. You give a brief note in Summary section.
+    5. Provide a detailed description regarding the topic under Description section.
+    6. Select a name from your list to assign the task to them.
+    7. Provide the reporter’s name to whom you report to.
+    8. Select a label from the drop down that you have created.
+    9. Assign a due date to have a deadline for the project.
+    10. You attach the attachment if you have one.
+    11. Click on the Create to start the task.
+    12. The task is created within the Project name.
+    13. Click on the created task to start working from it to show the progress.
     14. We need to add our comments in the comments section to show the progress and change the status. 
 
 # Support
