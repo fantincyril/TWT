@@ -1,8 +1,8 @@
 # Introduction
 
-Jira is a project management tool. It is a ticketing tool used by companies to track their progress of projects. Jira software tool is used by teams to plan, track, release and support world-class software. Jira Software is a work management tool for software teams that need to organize and track their work. Jira Software makes it easy for teams to move work forward with their work, stay aligned, and communicate in context. Jira is incredibly flexible and can be customized for work depending upon our criteria. You can track all the activities based on the project to enjoy increased productivity and visibility. 
+Jira is a project management tool. It is a ticketing tool used by companies to track the progress of projects. Jira software tool is used by teams to plan, track, release, and support world-class software. Jira Software is a work management tool for software teams that need to organize and track their work. Jira Software makes it easy for teams to move work forward with their work, stay aligned, and communicate in context. Jira is incredibly flexible and can be customized for work depending on our criteria. You can track all the activities based on the project to enjoy increased productivity and visibility. 
 Who uses Jira Software?
-Jira Software launched in 2002 as an issue tracking and project management tool for teams. Since then, 65,000+ companies globally have adopted Jira for its flexibility to support any type of project and extensibility to work with thousands of apps and integrations.
+Jira Software was launched in 2002 as an issue-tracking and project management tool for teams. Since then, 65,000+ companies globally have adopted Jira for its flexibility to support any type of project and extensibility to work with thousands of apps and integrations.
 
 •	**Agile teams**\
 •	**Bug tracking teams**\
@@ -17,7 +17,7 @@ Jira Software launched in 2002 as an issue tracking and project management tool 
 
 Jira is a 'web application', meaning it runs centrally on a server, and users interact with it through web browsers from any computer on the same network. As such, Jira must be able to communicate and authenticate with itself. If you're upgrading to Jira 9.6 be sure to review the latest release and upgrade notes here.
 
-Please read the Supported platforms page for Jira applications, which lists the required server and client software supported by Jira applications for:
+Please read the Supported Platforms page for Jira applications, which lists the required server and client software supported by Jira applications for:
 
 •	**Browsers (client-side)**\
 •	**Java platforms (JDK/JRE) (server-side)**\
@@ -31,7 +31,7 @@ Please read the Supported platforms page for Jira applications, which lists the 
 
 ### New user
 **To get started with Jira**,
-On the Jira dashboard you see the ribbon along with the options
+On the Jira dashboard, you see the ribbon along with the options
 
 • Select Your work, you see the work assigned to you along with its progress\
 • Under Project section you can see all the projects created and you can even create new Projects\
